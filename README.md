@@ -1,4 +1,4 @@
-Olá! Meu nome é Izadora
+## Olá! Meu nome é Izadora
 
 - 😄 Tenho 17 anos
 - 😄 Desenvolvedora Front End
