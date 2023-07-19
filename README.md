@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Izadora
 
 - 😄 Tenho 17 anos
-- 😄 Desenvolvedora Front End
+- 😄 Desenvolvedora 
 - 🎓 Estudo ADS na Unicesumar
 - 🌱 Atualmente estudando React.js
 - ☀️ Linkedin: @izadorasantosdesousa
