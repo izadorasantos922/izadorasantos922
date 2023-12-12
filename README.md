@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Izadora
 
-- 😄 Tenho 17 anos
+- 😄 Tenho 18 anos
 - 😄 Desenvolvedora 
 - 🎓 Estudo ADS na Unicesumar
 - 🌱 Atualmente estudando React.js
