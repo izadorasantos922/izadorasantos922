@@ -8,7 +8,7 @@
 <br/>
 <div>
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=izadorasantos922&show_icons=true&theme=dracula&count_private=true">
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=izadorasantos922&layout=compact&theme=dracula">
+    <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=izadorasantos922&layout=compact&theme=dracula">
 </div>
 <div>
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
