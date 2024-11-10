@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Izadora
 
 - 😄 Tenho 19 anos.
-- 😄 Desenvolvedora.
+- 😄 programadora.
 - 🌱 Atualmente estudando na Ufra (Universidade federal da Amazônia) no 1° periodo.
 - 🎓 Estou no 4° periodo de ADS na Unicesumar.
 - ☀️ Linkedin: @izadorasantosdesousa.
