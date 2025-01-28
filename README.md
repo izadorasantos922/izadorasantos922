@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou a Izadora Santos de Sousa  
 
-- 💻 *Programadora**
+- 💻 **Programadora**
 - 🎓 Atualmente estudando **Sistemas de informação** na [UFRA (Universidade Federal Rural da Amazônia)](https://www.ufra.edu.br/) – 1° período.  
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na [Unicesumar](https://www.unicesumar.edu.br/) – 4° período.  
 - 🌱 Sempre em busca de novos aprendizados e desafios na área de tecnologia.  
@@ -11,7 +11,7 @@
 ## 🚀 Tecnologias que estou estudando  
 
 - **Linguagens:** Python, JavaScript, Java.  
-- *Front-end:** HTML, CSS, React.  
+- **Front-end:** HTML, CSS, React.  
 - **Back-end:** Node.js, SQL, MongoDB.  
 - **Outros:** Git, GitHub, Docker.  
 
@@ -28,7 +28,7 @@ Se quiser trocar uma ideia, fique à vontade para me chamar!
 
 # 👋 Hello! I'm Izadora Santos de Sousa  
 
-- 💻 **Programmer **  
+- 💻 **Programmer**  
 - 🎓 Currently studying **Information Systems** at [UFRA (Federal Rural University of the Amazon)](https://www.ufra.edu.br/) – 1st semester.  
 - 🎓 Pursuing **Analysis and Systems Development** at [Unicesumar](https://www.unicesumar.edu.br/) – 4th semester.  
 - 🌱 Always looking for new knowledge and challenges in the tech field.  
