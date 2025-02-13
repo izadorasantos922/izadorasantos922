@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou a Izadora Santos de Sousa  
 
 - 💻 **Programadora**
-- 🎓 Atualmente estudando **Sistemas de informação** na [UFRA (Universidade Federal Rural da Amazônia)](https://www.ufra.edu.br/) – 1° período.  
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na [Unicesumar](https://www.unicesumar.edu.br/) – 4° período.  
+- 🎓 Atualmente estudando **Sistemas de informação** na [UFRA (Universidade Federal Rural da Amazônia)](https://www.ufra.edu.br/) – 2° período.  
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na [Unicesumar](https://www.unicesumar.edu.br/) – 5° período.  
 - 🌱 Sempre em busca de novos aprendizados e desafios na área de tecnologia.  
 - 🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/izadora-santos-de-sousa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).  
 
@@ -29,8 +29,8 @@ Se quiser trocar uma ideia, fique à vontade para me chamar!
 # 👋 Hello! I'm Izadora Santos de Sousa  
 
 - 💻 **Programmer**  
-- 🎓 Currently studying **Information Systems** at [UFRA (Federal Rural University of the Amazon)](https://www.ufra.edu.br/) – 1st semester.  
-- 🎓 Pursuing **Analysis and Systems Development** at [Unicesumar](https://www.unicesumar.edu.br/) – 4th semester.  
+- 🎓 Currently studying **Information Systems** at [UFRA (Federal Rural University of the Amazon)](https://www.ufra.edu.br/) – 2nd semester.  
+- 🎓 Pursuing **Analysis and Systems Development** at [Unicesumar](https://www.unicesumar.edu.br/) – 5th semester.  
 - 🌱 Always looking for new knowledge and challenges in the tech field.  
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/izadora-santos-de-sousa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).  
 
